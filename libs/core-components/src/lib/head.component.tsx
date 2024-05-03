@@ -9,7 +9,7 @@ type HeadProps = {
 export const Head = ({ title, children }: HeadProps) => {
   return (
     <NextHead>
-      <title>{`$GhostFace Token - ${title ?? 'Portfolio'}`}</title>
+      <title>{`$ChewGlass Token - ${title ?? 'Portfolio'}`}</title>
       {children}
     </NextHead>
   );

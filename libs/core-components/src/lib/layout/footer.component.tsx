@@ -10,14 +10,14 @@ export const Footer = () => {
           </Link>
           <ul className="footer-menu">
             <li>
-              <Link href="https://twitter.com/ghostfacetoken">Twitter</Link>
+              <Link href="https://twitter.com/solchewglass">Twitter</Link>
             </li>
             <li>
-              <Link href="https://t.me/ghostfacetoken">Telegram</Link>
+              <Link href="https://t.me/chewglass">Telegram</Link>
             </li>
           </ul>
           <p className="copyright">
-             <span>$GhostFace Token</span>
+             <span>$ChewGlass Token</span>
           </p>
         </div>
       </div>
