@@ -1,0 +1,118 @@
+{
+  "bio": {
+    "heading": "$GhostFace",
+    "description": "",
+    "offerings": ".",
+    "descriptionExtended": "<span class='text-primary-color'>demonic laughter echoes Did you hear that? It's the sound of your worst nightmare becoming reality! I am $GhostFace, the only terrifying Sol meme token! Hell is in my Code</span>",
+
+    "media": "/assets/logo/1.gif",
+    "button": {
+      "link": "/",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  },
+  "credentials": {
+    "heading": "Solana Take Over!",
+    "caption": "Let's make it the Top Ghost token on Solana",
+    "media": "/assets/logo/2.gif",
+    "button": {
+      "link": "/",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  },
+  "cv": {
+    "heading": "Jupiter Strict List",
+    "caption": "We have already applied for",
+    "media": "/assets/logo/7.gif",
+    "button": {
+      "link": "/portfolio",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  },
+  "blog": {
+    "caption": "",
+    "heading": "PikaBOO👻",
+    "media": "/assets/logo/9.gif",
+    "button": {
+      "link": "/posts",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  },
+  "offerings": {
+
+    "link": "/offerings",
+    "media": "/assets/logo/8.gif",
+
+    "icons": [
+
+    ],
+    "button": {
+      "link": "/offerings",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  },
+  "profiles": {
+    "heading": "Socials",
+    "caption": "Join The GhostFace Community",
+    "media": "/assets/logo/4.gif",
+    "button": {
+      "link": "/contact",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    },
+    "profiles": [
+      {
+        "link": "https://twitter.com/ghostfacetoken",
+        "icon": "iconoir-twitter"
+      },
+      {
+        "link": "https://t.me/ghostfacetoken",
+        "icon": "iconoir-telegram"
+      }
+    ]
+  },
+  "facts": {
+    "quickFacts": [
+      {
+        "count": "6+",
+        "label": "YEARS <br /> EXPERIENCE"
+      },
+      {
+        "count": "60+",
+        "label": "CONSULTATIONS <br /> CONDUCTED"
+      },
+      {
+        "count": "12+",
+        "label": "PRODUCTION <br /> APPLICATIONS"
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Get $GhostFace <br /> from <span>Pump.fun</span>",
+    "media": "/assets/icons/icon2.png",
+    "button": {
+      "link": "/contact",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  }
+}
