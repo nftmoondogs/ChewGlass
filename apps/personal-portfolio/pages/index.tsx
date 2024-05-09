@@ -161,7 +161,7 @@ const LandingPage = () => {
                 </div>
                 <div className="col-md-6" data-aos="zoom-in">
               <div className="about-contact-box info-box shadow-box">
-                <Link className="overlay-link" href="https://www.pump.fun/board" />
+                <Link className="overlay-link" href="https://pump.fun/Hf8CziQ78A1bMEsEKM29akBXqgDnw9tmaq88ZWKy7MJM" />
                 <img src="/assets/bg1.png" alt="BG" className="bg-img" />
                 <img
                   src="/assets/icons/icon2.png"
